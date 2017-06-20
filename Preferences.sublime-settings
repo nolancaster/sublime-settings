@@ -1,6 +1,8 @@
 {
 	"font_size": 11,
-	"ignored_packages": [],
-	"vintage_start_in_command_mode": true,
-	"save_on_focus_lost": true
+	"ignored_packages":
+	[
+	],
+	"save_on_focus_lost": true,
+	"vintage_start_in_command_mode": true
 }
