@@ -1,8 +1,16 @@
 {
-	"font_size": 11,
-	"ignored_packages":
-	[
-	],
-	"save_on_focus_lost": true,
-	"vintage_start_in_command_mode": true
+    // UI
+    "font_size": 11,
+    "rulers": [80],
+    "auto_complete_commit_on_tab": true,
+    "save_on_focus_lost": true,
+
+    // Enable VIM controls
+    "vintage_start_in_command_mode": true,
+	"ignored_packages": [],
+
+    // Whitespace
+    "ensure_newline_at_eof_on_save": true,
+    "translate_tabs_to_spaces": true,
+    "trim_trailing_white_space_on_save": true,
 }
