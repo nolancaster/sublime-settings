@@ -5,6 +5,13 @@
 	],
 	"installed_packages":
 	[
-		"AdvancedNewFile"
+		"AdvancedNewFile",
+		"All Autocomplete",
+		"CloseOtherWindows",
+		"DocBlockr",
+		"Emmet",
+		"Git",
+		"GitGutter",
+		"Package Control"
 	]
 }
