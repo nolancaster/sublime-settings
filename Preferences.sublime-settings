@@ -1,6 +1,5 @@
 {
     // UI
-    "font_size": 11,
     "auto_complete_commit_on_tab": true,
     "save_on_focus_lost": true,
 
