@@ -1,0 +1,9 @@
+[
+    {
+        "keys": ["alt+shift+w"], "command": "close_other_windows"
+    },
+    {
+        "keys": ["ctrl+shift+w"], "command": "close_other_tabs"
+    }
+
+]
