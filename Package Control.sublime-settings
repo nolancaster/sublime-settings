@@ -5,8 +5,10 @@
 	],
 	"installed_packages":
 	[
+		"A File Icon",
 		"AdvancedNewFile",
 		"All Autocomplete",
+		"Boxy Theme",
 		"CloseOtherWindows",
 		"DocBlockr",
 		"Emmet",
