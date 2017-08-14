@@ -1,9 +1,8 @@
 [
-    {
-        "keys": ["alt+shift+w"], "command": "close_other_windows"
-    },
-    {
-        "keys": ["ctrl+shift+w"], "command": "close_other_tabs"
-    }
-
+    {"keys": ["alt+shift+w"], "command": "close_other_windows"},
+    {"keys": ["ctrl+shift+w"], "command": "close_other_tabs"},
+    {"keys": ["alt+shift+up"], "command": "select_lines", "args": {"forward": false} },
+    {"keys": ["alt+shift+down"], "command": "select_lines", "args": {"forward": true} },
+    {"keys": ["ctrl+up"], "command": "scroll_lines", "args": {"amount": 1.0 } },
+    {"keys": ["ctrl+down"], "command": "scroll_lines", "args": {"amount": -1.0 } },
 ]
